@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <h1>Bill Gates</h1>
+   <hr>
+   Article &nbsp;<a href="https://talks.com/">talk</a>  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Read &nbsp; &nbsp; &nbsp; <a href="https://View source/">View source &nbsp; View history</a>
+   <hr>
+<i>This article is about the co-founder of Microsoft.</i> <i>For other people with the same name, see </i><a href="https://Bill gates(disambiguation)/">Bill Gates(disambiguation).</a>
+<p><b>WWilliam Hernry Gates III</b>(born October 28, 1955) is an American businessman and philanthropist best known for his roles at <a href="https://Microsoft/">Microsoft Corporation.</a></p>
+<p> He co-founded the software company with his childhood friend <a href="https://Ellen/">Paul Ellen</a>and later held the positions of chairman, chief executive officer (CEO), president,<br> and <a href="https://software/">Chief Software architect.</a></p>
+<p>He was also being its largest individual <a href="https://shareholder/">shareholder</a> until May 2014.[a] He was a pioneer of the <a href="https://microcomputer/">Microcomputer revolution</a><br> of the 1970s and 1980s.</p>
+
+<p>Gates was born and raised in <a href="https://seattle/">seattle, Washington</a>. In 1975, he and Allen founded Microsoft in <a href="https://mexico/">Albuquerque, New Mexico</a>.<br> Gates led the company as its chairman and chief executive officer until stepping down as CEO in January 2000,<br> succeeded by <a href="https://steve/">Steve Ballmer</a>, but he remained chairman of the board of directors and became chief software architect. <br>During the late 1990s, he was <a href="https://link/">criticized for his business tactics</a>, which were considered <a href="https://competitive/">anti-competitive.</a></p>
+<h4>Early life and Education</h4>
+<hr>
+<p>William Henry Gates III was born on October 28, 1955, in Seattle, Washington[3] as the only son of William H.<br> Gates Sr.[b] (1925–2020) and his first wife, Mary Maxwell Gates (1929–1994).[4] His ancestry includes English,<br> German, and Irish/Scots-Irish.[5] His father was a prominent lawyer, and his mother served on the board of directors<br> of First Interstate BancSystem and United Way of America. Gates's maternal grandfather J. W. Maxwell was a national bank president.<br> Gates also has an older sister Kristi (Kristianne) and a younger sister Libby. He is the fourth of his name in his family but is known as William Gates III or "Trey"<br> (i.e., three) because his father had the "II" suffix.[6][7] The family lived in the Sand Point area of Seattle in a home that was damaged by a rare tornado<br> when Gates was 7.[8]
+
+    When Gates was young his parents wanted him to pursue a career in law.[9] During his childhood, his family regularly attended a church <br>of the Congregational Christian Churches, a Protestant Reformed denomination.[10][11][12] Gates was small for his age and was bullied as a child.[7]<br> The family encouraged competition; one visitor reported that "it didn't matter whether it was hearts or pickleball or swimming to the dock; <br>there was always a reward for winning and there was always a penalty for losing".[13]</p>
+
+<div class="container">
+    <img src="./images/bill gates.jpg">  
+    <div class="topright">Top Right</div>
+<p><b>Born</b>&nbsp;&nbsp;&nbsp; William Herny Gates III</p>
+                                 October 28,1955(age 69)
+                                 <a href="https://seattle/">Seattle</a>, Washington, U.S.
+                                 <p><b>Education</b>&nbsp;&nbsp;&nbsp;<a href="https://Harvard University/">Harvard University</a>(dropped out)</p>
+                                 <p><b>Occupution</b>&nbsp;&nbsp; Businessman . philanthropist.<br>
+                                                                   Computer Programmer . writer</p>
+                                <p><b>Years active</b>&nbsp;&nbsp;1972-present</p>
+                                <p><strong>Known for</strong>&nbsp;&nbsp; Pioneer of the <a href="https://revolution/">personal computer revolution</a><br>with <a href="https://Paul ellen/">Paul Ellen</a>Co-founding of <a href="https://Micro/">Microsoft</a><br> and <a href="https://Bill/">Bill & Melinda Gates Foundation</a></p>
+</div>
+</body>
+</html>
